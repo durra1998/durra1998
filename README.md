@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Durra Tarannum</h1>
-<p align="center"><i>Exploring Quantum Information & Cryptographyfrom Bangladesh</i></p>
+<p align="center"><i>Exploring Quantum Information & Cryptography from Bangladesh</i></p>
 
 ---
 
