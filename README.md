@@ -1,14 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm Durra Tarannum</h1>
-<p align="center"><i>Exploring Quantum Information & Cryptography from Bangladesh</i></p>
+<p align="center"><i>Exploring Quantum Information & Post-Quantum Cryptography from Bangladesh</i></p>
 
 ---
 
 ## 🚀 Quick Facts
 
-- 👩‍🔬 Aspiring researcher in **Quantum Information** and **Post-Quantum Cryptography**
-- 💼 Research Assistant @ [CHIRAL Bangladesh](https://chiralbd.org)
-- 📫 Reach me at: durra.tarannum@email.com
-- 🌱 Currently diving into: Quantum Key Distribution, QPQ, ML for Medical Diagnosis
+- 🎓 EEE Graduate from Chittagong University of Engineering & Technology
+- 💼 Former Research Assistant @ [CHIRAL Bangladesh](https://chiralbd.org)
+- 📫 Reach me at: durratarannum@gmail.com
 
 ---
 
@@ -16,12 +15,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-6929c4?style=for-the-badge&logo=Qiskit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0066A1?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
+
 
 ---
 
